@@ -7,7 +7,7 @@
       "expressions": [],
       "name": "header-component",
       "nodeName": "header-component",
-      "ownerId": "6b0665205f49622b2e001833",
+      "ownerId": "6b06647e5f49622b2e0017df",
       "ownerType": "app",
       "resourceIdentity": "components/header-component",
       "type": "custom-component"
@@ -1226,6 +1226,36 @@
         }
       },
       "name": "div"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Breadcrumbs",
+      "nodeName": "bln-breadcrumbs",
+      "ownerName": null,
+      "type": "core-component"
     }
   ],
   "name": "dashboard",
