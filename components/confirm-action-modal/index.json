@@ -216,6 +216,11 @@
       "name": "div"
     }
   ],
+  "localStylesheets": [
+    {
+      "path": "index.css"
+    }
+  ],
   "modules": [],
   "name": "confirm-action-modal",
   "styles": [],
